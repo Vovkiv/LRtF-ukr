@@ -1,10 +1,10 @@
-# Довга Дорога до Дружби - Українською
-![обкладинка](https://github.com/Vovkiv/LRtF-ukr/blob/main/src/cover-ukr.png?raw=true)
+# /Назва Фанфіка/ - Українською
+![обкладинка](https://github.com/Vovkiv/fanfic-translation-template/blob/main/src/cover-ukr.png?raw=true)
 
-Ще не перекладено.
+/перекладений опис фанфіка з fimfiction/
 
 # Як відкрити? Де фанфік?
-пдф файл: https://github.com/Vovkiv/LRtF-ukr/blob/main/fic-ukr.pdf
+пдф файл: https://github.com/Vovkiv/fanfic-translation-template/blob/main/fic-ukr.pdf
 
 Ви його можете одразу читати його у гітхабі, або можете завантажити.
 
@@ -29,10 +29,10 @@
 Тоді ви можете написати мені тут: [Contacts](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/tree/main#contacts)
 
 # Original fic:
-https://www.fimfiction.net/story/144198/long-road-to-friendship
+https://www.fimfiction.net/story/посилання_на_фанфік
 
 # Original cover:
-https://www.fimfiction.net/user/225786/Amber+Spark
+https://посилання_на_обкладинку
 
 # Слідкувати за процесом перекладу і іншими фанфіками, які я вже переклав можна тут:
 https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate
