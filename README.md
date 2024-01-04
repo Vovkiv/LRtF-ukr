@@ -1,10 +1,18 @@
-# /Назва Фанфіка/ - Українською
-![обкладинка](https://github.com/Vovkiv/fanfic-translation-template/blob/main/src/cover-ukr.png?raw=true)
+# Long Road to Friendship - Українською
+![обкладинка](src/cover-ukr.png)
 
-/перекладений опис фанфіка з fimfiction/
+After putting on the Element of Magic, Sunset Shimmer was shown just how much of a monster she really is. But that wasn't all the Elements did to her.
+
+Sunset has now been forced to serve penance by answering any question truthfully and by doing anything asked of her, whether she wants to or not.
+
+And she really doesn't want to.
+
+Until all of the hatred in her heart is gone, Sunset is at the whim of her peers, unbeknownst to them of course. Can her new "friends" help her down the road to redemption?
+
+If not, there's always that other Twilight Sparkle she keeps running into. 
 
 # Як відкрити? Де фанфік?
-пдф файл: https://github.com/Vovkiv/fanfic-translation-template/blob/main/fic-ukr.pdf
+[пдф файл](Long Road to Friendship - ukr.pdf)
 
 Ви його можете одразу читати його у гітхабі, або можете завантажити.
 
@@ -29,10 +37,10 @@
 Тоді ви можете написати мені тут: [Contacts](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/tree/main#contacts)
 
 # Original fic:
-https://www.fimfiction.net/story/посилання_на_фанфік
+https://www.fimfiction.net/story/144198/long-road-to-friendship
 
 # Original cover:
-https://посилання_на_обкладинку
+https://www.fimfiction.net/user/225786/Amber+Spark
 
 # Слідкувати за процесом перекладу і іншими фанфіками, які я вже переклав можна тут:
 https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate
