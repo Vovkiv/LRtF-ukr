@@ -1,5 +1,5 @@
 # Long Road to Friendship - Українською
-![обкладинка](src/cover-ukr.png)
+![](src/cover-ukr.png)
 
 After putting on the Element of Magic, Sunset Shimmer was shown just how much of a monster she really is. But that wasn't all the Elements did to her.
 
@@ -12,7 +12,8 @@ Until all of the hatred in her heart is gone, Sunset is at the whim of her peers
 If not, there's always that other Twilight Sparkle she keeps running into. 
 
 # Як відкрити? Де фанфік?
-[пдф файл](Long Road to Friendship - ukr.pdf)
+
+[пдф файл](Long%20Road%20to%20Friendship%20-%20ukr.pdf)
 
 Ви його можете одразу читати його у гітхабі, або можете завантажити.
 
